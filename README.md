@@ -46,8 +46,8 @@ Here are a few of my favorite projects:
 > *(More projects coming soon...)*
 ### 📫 Connect With Me
 
-- 📧 Email: [jeenajdas@example.com](mailto:jeenajdas@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/jeenajdas](https://linkedin.com/in/jeenajdas)
+- 📧 Email: [jeenajee80@gmail.com](mailto:jeenajee80@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/jeenajdas](https://www.linkedin.com/in/jeena-j-das-94a4822a8/)
 - 🌐 Portfolio: *(Coming soon)*
 
 ---
