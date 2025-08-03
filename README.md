@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeena</h1>
+<h1 align="center">Hi 👋, I'm Jeena J Das</h1>
 <h3 align="center">Full Stack Developer | Java Enthusiast | Lifelong Learner</h3>
 
 ---
@@ -8,10 +8,52 @@
 - 🎓 Computer Science graduate passionate about building **end-to-end applications**
 - 🔭 Currently working on projects using **Spring Boot**, **React.js**, and **MySQL**
 - 💡 I love creating meaningful applications that solve real-world problems
-- 🧠 Continuously learning to solve real world problems
+- 🧠 Always striving to learn and improve daily
 - 🚀 Dreaming to become a skilled software developer contributing to impactful tech
 
 ---
+### 🔧 Tech Stack
+
+#### 💻 Programming & Markup Languages
+- `Java` | `JavaScript` | `HTML5` | `CSS3`
+
+#### ⚙️ Backend & Server
+- `Spring Boot` | `Spring Security` | `REST API` | `Hibernate` | `Maven`
+
+#### 🖥️ Frontend & UI
+- `React.js` | `Bootstrap` | `Tailwind CSS` | `Axios`
+
+#### 🛢️ Database & Tools
+- `MySQL` | `Postman` | `Git & GitHub` | `VS Code` | `IntelliJ IDEA`
+
+---
+### 🚀 Projects
+
+Here are a few of my favorite projects:
+
+- 🎫 [**EasyTrip - Bus Ticket Booking App**](https://github.com/jeenajdas/easytrip)  
+  Full-stack project with seat booking, user authentication, PDF ticket with QR, and email confirmation using **Spring Boot + React**.
+
+- 🎤 [**Concert Booking App**](https://github.com/jeenajdas/concert-booking)  
+  A simple event ticket booking platform with backend focused.
+
+- ⌨️ [**Typing Speed Test App**](https://github.com/jeenajdas/typing-speed-test)  
+  Test and improve typing speed with live stats and interactive feedback. Built using HTML, CSS, and JavaScript.
+
+- 📘 [**Booksky - Book Tracker App**](https://github.com/jeenajdas/booksky)  
+  A clean and responsive CRUD app to add, edit, and delete books using JavaScript + LocalStorage.
+
+> *(More projects coming soon...)*
+### 📫 Connect With Me
+
+- 📧 Email: [jeenajdas@example.com](mailto:jeenajdas@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/jeenajdas](https://linkedin.com/in/jeenajdas)
+- 🌐 Portfolio: *(Coming soon)*
+
+---
+<p align="center">
+  Made with ❤️ by Jeena · Let's build something amazing together!
+</p>
 
 <!--
 **jeenajdas/jeenajdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
