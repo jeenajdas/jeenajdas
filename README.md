@@ -52,7 +52,7 @@ Here are a few of my favorite projects:
 
 ---
 <p align="center">
-  Made with ❤️ by Jeena · Let's build something amazing together!
+  Let's build something amazing together! OK Bieeee!!
 </p>
 
 <!--
