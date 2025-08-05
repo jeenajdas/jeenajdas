@@ -3,7 +3,7 @@
 
 ---
 
-### 🌱 About Me
+###  About Me
 
 - 🎓 Computer Science graduate passionate about building **end-to-end applications**
 - 🔭 Currently working on projects using **Spring Boot**, **React.js**, and **MySQL**
@@ -31,16 +31,16 @@
 
 Here are a few of my favorite projects:
 
-- 🎫 [**EasyTrip - Bus Ticket Booking App**](https://github.com/jeenajdas/easytrip)  
+-  [**EasyTrip - Bus Ticket Booking App**](https://github.com/jeenajdas/easytrip)  
   Full-stack project with seat booking, user authentication, PDF ticket with QR, and email confirmation using **Spring Boot + React**.
 
-- 🎤 [**Concert Booking App**](https://github.com/jeenajdas/concert-booking)  
+-  [**Concert Booking App**](https://github.com/jeenajdas/concert-booking)  
   A simple event ticket booking platform with backend focused.
 
-- ⌨️ [**Typing Speed Test App**](https://github.com/jeenajdas/typing-speed-test)  
+-  [**Typing Speed Test App**](https://github.com/jeenajdas/typing-speed-test)  
   Test and improve typing speed with live stats and interactive feedback. Built using HTML, CSS, and JavaScript.
 
-- 📘 [**Booksky - Book Tracker App**](https://github.com/jeenajdas/booksky)  
+-  [**Booksky - Book Tracker App**](https://github.com/jeenajdas/booksky)  
   A clean and responsive CRUD app to add, edit, and delete books using JavaScript + LocalStorage.
 
 > *(More projects coming soon...)*
@@ -52,7 +52,7 @@ Here are a few of my favorite projects:
 
 ---
 <p align="center">
-  Let's build something amazing together! OK Bieeee!!
+  Let's build something amazing together!   OK Bieeee!!
 </p>
 
 <!--
