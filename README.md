@@ -48,7 +48,7 @@ Here are a few of my favorite projects:
 
 - 📧 Email: [jeenajee80@gmail.com](mailto:jeenajee80@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/jeenajdas](https://www.linkedin.com/in/jeena-j-das-94a4822a8/)
-- 🌐 Portfolio: *(Coming soon)*
+- 🌐 Portfolio: [jeena-portfolio.vercel.app](https://jeena-portfolio.vercel.app/)
 
 ---
 <p align="center">
